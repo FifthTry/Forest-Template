@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.package: fifthtry.github.io/Forest-Template
+zip: github.com/fifthtry/Forest-Template/archive/refs/heads/main.zip
+
+-- fpm.dependency: fifthtry.github.io/Forest-Theme as ft
