@@ -3,7 +3,7 @@
 -- ft.site-name: FPM
 -- ft.site-icon: static/images/logo.svg
 -- ft.github: https://github.com/fifthtry/fpm-dev-en/
-/-- ft.site-url: https://fpm.dev/
+-- ft.site-url: https://fpm.dev/
 
 -- ft.toc:
 $processor$: toc
@@ -43,8 +43,6 @@ $processor$: toc
 
 
 
-
--- ft.page:
 
 -- ft.doc-page:
 toc: $ft.toc
